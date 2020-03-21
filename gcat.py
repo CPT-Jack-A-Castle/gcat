@@ -19,8 +19,8 @@ from email.MIMEText import MIMEText
 from email import Encoders
 
 #######################################
-gmail_user = 'chazun1st@gmail.com'
-gmail_pwd = 'Masterk1'
+gmail_user = ''
+gmail_pwd = ''
 server = "smtp.gmail.com"
 server_port = 587
 #######################################
