@@ -28,8 +28,8 @@ from ctypes import c_void_p, c_int, create_string_buffer, sizeof, windll, Struct
 from ctypes.wintypes import BOOL, DOUBLE, DWORD, HBITMAP, HDC, HGDIOBJ, HWND, INT, LPARAM, LONG, RECT, UINT, WORD, MSG
 
 #######################################
-gmail_user = 'chazun1st@gmail.com'
-gmail_pwd = 'Masterk1'
+gmail_user = ''
+gmail_pwd = ''
 server = 'smtp.gmail.com'
 server_port = 587
 #######################################
