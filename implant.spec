@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['implant.py'],
-             pathex=['D:\\PenTest\\Repos\\gcat'],
+             pathex=['Z:\\home\\wh7rb7\\gcat'],
              binaries=[],
              datas=[],
              hiddenimports=[],
