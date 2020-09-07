@@ -5,7 +5,13 @@
 # Gcat
 A stealthy Python based backdoor that uses Gmail as a command and control server
 
+#  Original Author <a href="https://github.com/byt3bl33d3r"><strong>byt3bl33d3r</strong></a>
 
+    Redeveloping a new Version
+    *s1l3nt78
+    
+ -----------------------------------------------------------------------------------------------------
+ 
 ## Setup 
 
 For this to work you need:
@@ -22,6 +28,8 @@ In both files, edit the ```gmail_user``` and ```gmail_pwd``` variables with the 
 You're probably going to want to compile ```implant.py``` into an executable using [Pyinstaller](https://github.com/pyinstaller/pyinstaller)
 
 **Note: It's recommended you compile implant.py using a 32bit Python installation**
+
+--------------------------------------------------------------------------------------------------------
 
 # Usage
 
@@ -118,6 +126,8 @@ Windows IP Configuration
 ```
 
 - That's the gist of it! But you can do much more as you can see from the usage of the script! ;)
+
+-----------------------------------------------------------------------------------------------
 
 # To Do
 
