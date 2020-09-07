@@ -2,7 +2,7 @@
  <img src="https://github.com/s1l3nt78/gcat/blob/master/.idea/gcat.png" alt="" />
 </p>
 
-# Gcat
+# gCat
 A stealthy Python based backdoor that uses Gmail as a command and control server
 
 #  Original Author: <a href="https://github.com/byt3bl33d3r"><strong>byt3bl33d3r</strong></a>
