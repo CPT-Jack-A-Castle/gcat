@@ -5,7 +5,7 @@
 # Gcat
 A stealthy Python based backdoor that uses Gmail as a command and control server
 
-#  Original Author <a href="https://github.com/byt3bl33d3r"><strong>byt3bl33d3r</strong></a>
+#  Original Author: <a href="https://github.com/byt3bl33d3r"><strong>byt3bl33d3r</strong></a>
 
     Redeveloping a new Version
     *s1l3nt78
