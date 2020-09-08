@@ -27,7 +27,7 @@ PreReqs
 - <a href="https://sourceforge.net/projects/pywin32/files/pywin32/Build%20217/pywin32-217.win32-py2.7.exe/download">PyWin32</a>
 - <a href="https://files.pythonhosted.org/packages/52/e5/0ce68034f3441bda11538162796dac5a8e5873e8af5d23aaea65e81c7e51/pyinstaller-2.0.zip">Pyinstaller (<strong>MUST BE VERSION 2</strong>)</a>
 
-      Once you have downloader the pyinstaller zip file from the link above, unzip it
+      Once you have downloaded the pyinstaller zip file from the link above, unzip it
       and move "implant.py" to the pyinstaller folder from the zip. 
       Ensure python2 is registered in your path then from the pyinstaller folder run:
         
