@@ -19,13 +19,17 @@ For this to work you need:
 - Turn on "Allow less secure apps" under the security settings of the account
 - You may also have to enable IMAP in the account settings
 
+PreReqs
+--------
+- <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi">Python 2 (32-bit)</a>
+- <a href="https://sourceforge.net/projects/pywin32/files/pywin32/Build%20217/pywin32-217.win32-py2.7.exe/download">PyWin32</a>
+- You're probably going to want to compile ```implant.py``` into an executable using [Pyinstaller](https://github.com/pyinstaller/pyinstaller)
+
 This repo contains two files:
 - ```gcat.py``` a script that's used to enumerate and issue commands to available clients
 - ```implant.py``` the actual backdoor to deploy
 
 In both files, edit the ```gmail_user``` and ```gmail_pwd``` variables with the username and password of the account you previously setup.
-
-You're probably going to want to compile ```implant.py``` into an executable using [Pyinstaller](https://github.com/pyinstaller/pyinstaller)
 
 **Note: It's recommended you compile implant.py using a 32bit Python installation**
 
