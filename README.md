@@ -1,5 +1,18 @@
 <p align="center">
  <img src="https://github.com/s1l3nt78/gcat/blob/master/.vs/gcat.png" alt="" />
+ <br />
+ <img src="https://img.shields.io/badge/-Python2-3776AB?style=for-the-badge&logo=python&logoColor=white"><br />
+				<img align="center" src="https://img.shields.io/github/issues/s1l3nt78/gcat" />
+				<img align="center" src="https://img.shields.io/github/forks/s1l3nt78/gcat" />
+				<img align="center" src="https://img.shields.io/github/stars/s1l3nt78/gcat" />
+				<br />
+				<img align="center" src="https://img.shields.io/badge/Version-2-red" />
+				<img align="center" src="https://img.shields.io/badge/Coming-Version 3-orange" />
+				<!--<img align="center" src="https://img.shields.io/badge/Revision-2-green" />-->
+				<br />
+				<img align="center" src="https://www.codefactor.io/repository/github/s1l3nt78/gcat/badge" alt="CodeFactor">
+				<img align="center" src="https://img.shields.io/badge/Author-byt3bl33d3r-blue" /><br />
+ <img align="center" src="https://img.shields.io/badge/Redevelopment by-s1l3nt78-blueviolet" />
 </p>
 
 # gCat
