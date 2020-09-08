@@ -19,11 +19,21 @@ For this to work you need:
 - Turn on "Allow less secure apps" under the security settings of the account
 - You may also have to enable IMAP in the account settings
 
+--------------------------------------------------------------------------------------------------
+
 PreReqs
 --------
 - <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi">Python 2 (32-bit)</a>
 - <a href="https://sourceforge.net/projects/pywin32/files/pywin32/Build%20217/pywin32-217.win32-py2.7.exe/download">PyWin32</a>
-- You're probably going to want to compile ```implant.py``` into an executable using [Pyinstaller](https://github.com/pyinstaller/pyinstaller)
+- <a href="https://files.pythonhosted.org/packages/52/e5/0ce68034f3441bda11538162796dac5a8e5873e8af5d23aaea65e81c7e51/pyinstaller-2.0.zip">Pyinstaller (<strong>MUST BE VERSION 2</strong>)</a>
+
+      Once you have downloader the pyinstaller zip file from the link above, unzip it
+      and move "implant.py" to the pyinstaller folder from the zip. 
+      Ensure python2 is registered in your path then from the pyinstaller folder run:
+        
+      >  python pyinstaller.py --onefile implant.py
+
+-----------------------------------------------------------------------------------------------------
 
 This repo contains two files:
 - ```gcat.py``` a script that's used to enumerate and issue commands to available clients
