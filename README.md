@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/s1l3nt78/gcat/gcat.png" alt="" />
+ <img src="https://raw.githubusercontent.com/s1l3nt78/gcat/gh-pages/gcat.png" alt="" />
 </p>
 
 # gCat
