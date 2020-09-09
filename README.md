@@ -36,7 +36,7 @@ For this to work you need:
 
 PreReqs
 --------
-- <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi">Python 2 (32-bit)</a>
+- <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi">Python 2 (32-bit for universal system compatibility)</a>
 - <a href="https://sourceforge.net/projects/pywin32/files/pywin32/Build%20217/pywin32-217.win32-py2.7.exe/download">PyWin32</a>
 - <a href="https://files.pythonhosted.org/packages/52/e5/0ce68034f3441bda11538162796dac5a8e5873e8af5d23aaea65e81c7e51/pyinstaller-2.0.zip">Pyinstaller (<strong>MUST BE VERSION 2</strong>)</a>
 - <a href="https://github.com/upx/upx/releases/download/v3.96/upx-3.96-win32.zip">UPX (optional)</a>
