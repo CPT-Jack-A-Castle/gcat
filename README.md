@@ -6,8 +6,8 @@
 				<img align="center" src="https://img.shields.io/github/forks/s1l3nt78/gcat" />
 				<img align="center" src="https://img.shields.io/github/stars/s1l3nt78/gcat" />
 				<br />
-				<img align="center" src="https://img.shields.io/badge/Version-2-red" />
-				<img align="center" src="https://img.shields.io/badge/Coming-Version 3-orange" />
+				<img align="center" src="https://img.shields.io/badge/Version-1-red" />
+				<img align="center" src="https://img.shields.io/badge/Coming-Version 2-orange" />
 				<!--<img align="center" src="https://img.shields.io/badge/Revision-2-green" />-->
 				<br />
 				<img align="center" src="https://www.codefactor.io/repository/github/s1l3nt78/gcat/badge" alt="CodeFactor">
