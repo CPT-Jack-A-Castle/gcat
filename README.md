@@ -20,7 +20,7 @@ A stealthy Python based backdoor that uses Gmail as a command and control server
 #  Original Author: <a href="https://github.com/byt3bl33d3r"><strong>byt3bl33d3r</strong></a>
 
     Redeveloping a new Version
-    *s1l3nt78
+        *s1l3nt78
     
  -----------------------------------------------------------------------------------------------------
  
@@ -33,6 +33,14 @@ For this to work you need:
 
 --------------------------------------------------------------------------------------------------
 
+# Coming Soon
+
+	Version: 2 
+	    - Additional Features
+	    
+	Version: 3
+	    - Python3 rewrite
+	    
 PreReqs
 --------
 - <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi">Python 2 (32-bit for universal system compatibility)</a>
