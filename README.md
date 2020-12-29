@@ -9,7 +9,7 @@
 				<img align="center" src="https://img.shields.io/badge/Version-1-red" />
 				<img align="center" src="https://img.shields.io/badge/Coming-Version 2-orange" />
 				<br />
-				<img align="center" src="https://www.codefactor.io/repository/github/7dbc/gcat/badge" alt="CodeFactor">
+				<img align="center" src="https://www.codefactor.io/repository/github/s1l3nt78/gcat/badge" alt="CodeFactor">
 				<img align="center" src="https://img.shields.io/badge/Author-byt3bl33d3r-blue" /><br />
  <img align="center" src="https://img.shields.io/badge/Redevelopment by-s1l3nt78-blueviolet" />
 </p>
